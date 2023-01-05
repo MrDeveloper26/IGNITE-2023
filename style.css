@@ -217,10 +217,11 @@ header .fa-bars {
   align-items: center;
   justify-content: center;
   flex-direction: column;
+  text-align: center;
   gap: 1rem;
 }
 
-.ignite-intro h3 {
+.home .ignite-intro h3 {
   font-size: 10rem;
   letter-spacing: 1rem;
   font-weight: 900;
@@ -235,6 +236,9 @@ header .fa-bars {
   font-family: 'Bebas Neue', cursive;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+}
+.home .ignite-intro p {
+  text-align: center;
 }
 
 .event-cards .box-container {
