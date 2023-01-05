@@ -320,10 +320,10 @@ header .fa-bars {
   padding: 10px;
 }
 
-.ignite-intro p {
-  font-size: 2.5rem;
-  text-align: center;
-  color: #fff;
+.home .ignite-intro p {
+    font-size: 2.5rem;
+    color: #fff;
+    text-align: center;
 }
 
 .sponsor-container {
@@ -695,6 +695,7 @@ footer {
 
   .home .ignite-intro h3 {
     font-size: 9rem;
+    text-align: center;
   }
 
   .title {
