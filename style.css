@@ -353,10 +353,6 @@ header .fa-bars {
   width: 100%;
   padding-top: 1rem;
   background-color: var(--blue);
-  /* background-image:
-    linear-gradient(45deg,
-      rgba(0, 0, 0, 0.75),
-      rgba(0, 0, 0, 0.75)), url('images/home-bg.png'); */
 }
 
 .contact-us .contact-container {
@@ -775,22 +771,3 @@ footer {
     height: 100vh;
   }
 }
-
-/* media queries  */
-/* 
-@media (max-width:768px) {
-
-  html {
-    font-size: 55%;font-family: 'Comfortaa', cursive;
-  }
-
-
-
-  .home .ignite-intro h3 {
-    font-size: 4rem;
-  }
-
-  .main {
-    flex-wrap: wrap;
-  }
-} */
